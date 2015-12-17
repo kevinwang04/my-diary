@@ -51,4 +51,4 @@
 
 - [12-15 feelings after wechat talk](https://github.com/kevinwang04/my-diary/blob/master/2015/08/2015-12-15.md)
 
-- [12-15 USTB-CLASS-ORDER](https://github.com/kevinwang04/my-diary/blob/master/2015/12/2015-12-16.md)
+- [12-16 USTB-CLASS-ORDER](https://github.com/kevinwang04/my-diary/blob/master/2015/12/2015-12-16.md)
