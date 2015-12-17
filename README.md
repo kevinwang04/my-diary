@@ -33,7 +33,7 @@
 
 - [09-24 learning jade](https://github.com/kevinwang04/my-diary/blob/master/2015/08/2015-09-24.md)
 
-- 09-28 funny javascript quiz
+- [09-28 funny javascript quiz](https://github.com/kevinwang04/my-diary/blob/master/2015/08/2015-09-28.md)
 
 ----
 
