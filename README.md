@@ -52,3 +52,5 @@
 - [12-15 feelings after wechat talk](https://github.com/kevinwang04/my-diary/blob/master/2015/12/2015-12-15.md)
 
 - [12-16 USTB-CLASS-ORDER](https://github.com/kevinwang04/my-diary/blob/master/2015/12/2015-12-16.md)
+
+- [12-22 start the xiaoyoubang project](https://github.com/kevinwang04/my-diary/blob/master/2015/12/2015-12-22.md) 
