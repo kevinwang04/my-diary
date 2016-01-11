@@ -54,3 +54,7 @@
 - [12-16 USTB-CLASS-ORDER](https://github.com/kevinwang04/my-diary/blob/master/2015/12/2015-12-16.md)
 
 - [12-22 start the xiaoyoubang project](https://github.com/kevinwang04/my-diary/blob/master/2015/12/2015-12-22.md) 
+
+### 2016
+
+- [01-11 during final exam](https://github.com/kevinwang04/my-diary/blob/master/2016/01/2016-01-11.md) 
