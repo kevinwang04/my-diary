@@ -58,3 +58,5 @@
 ### 2016
 
 - [01-11 during final exam](https://github.com/kevinwang04/my-diary/blob/master/2016/01/2016-01-11.md) 
+
+- [01-12](https://github.com/kevinwang04/my-diary/blob/master/2016/01/2016-01-11.md) 
