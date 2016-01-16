@@ -60,3 +60,9 @@
 - [01-11 during final exam](https://github.com/kevinwang04/my-diary/blob/master/2016/01/2016-01-11.md) 
 
 - [01-13 after reading《Paradise Lost》](https://github.com/kevinwang04/my-diary/blob/master/2016/01/2016-01-13.md) 
+
+- [01-14 J-push](https://github.com/kevinwang04/my-diary/blob/master/2016/01/2016-01-14.md) 
+
+- [01-15 Grumble about self](https://github.com/kevinwang04/my-diary/blob/master/2016/01/2016-01-15.md) 
+
+- [01-16 mad source](https://github.com/kevinwang04/my-diary/blob/master/2016/01/2016-01-16.md) 
