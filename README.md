@@ -66,3 +66,7 @@
 - [01-15 Grumble about self](https://github.com/kevinwang04/my-diary/blob/master/2016/01/2016-01-15.md) 
 
 - [01-16 mad source](https://github.com/kevinwang04/my-diary/blob/master/2016/01/2016-01-16.md) 
+
+----
+
+- [04-10 alibaba alumnus lecture](https://github.com/kevinwang04/my-diary/blob/master/2016/04/2016-04-10.md) 
