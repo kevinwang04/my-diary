@@ -71,5 +71,6 @@
 
 - [04-10 alibaba alumnus lecture](https://github.com/kevinwang04/my-diary/blob/master/2016/04/2016-04-10.md) 
 
-
 - [04-15 alibaba technology forum](https://github.com/kevinwang04/my-diary/blob/master/2016/04/2016-04-15.md) 
+
+- [04-16 jd interview](https://github.com/kevinwang04/my-diary/blob/master/2016/04/2016-04-16.md) 
