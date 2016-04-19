@@ -74,3 +74,5 @@
 - [04-15 alibaba technology forum](https://github.com/kevinwang04/my-diary/blob/master/2016/04/2016-04-15.md) 
 
 - [04-16 jd interview](https://github.com/kevinwang04/my-diary/blob/master/2016/04/2016-04-16.md) 
+
+- [04-18 Django getting start](https://github.com/kevinwang04/my-diary/blob/master/2016/04/2016-04-18.md) 
