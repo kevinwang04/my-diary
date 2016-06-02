@@ -76,3 +76,6 @@
 - [04-16 jd interview](https://github.com/kevinwang04/my-diary/blob/master/2016/04/2016-04-16.md) 
 
 - [04-24 Three.js](https://github.com/kevinwang04/my-diary/blob/master/2016/04/2016-04-24.md) 
+
+
+- [06-02 CaiNiao entry summary](https://github.com/kevinwang04/my-diary/blob/master/2016/06/2016-06-02.md) 
