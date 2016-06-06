@@ -79,3 +79,5 @@
 
 
 - [06-02 CaiNiao entry summary](https://github.com/kevinwang04/my-diary/blob/master/2016/06/2016-06-02.md) 
+
+- [06-06 learning jQuery  Utility Methods](https://github.com/kevinwang04/my-diary/blob/master/2016/06/2016-06-06.md) 
