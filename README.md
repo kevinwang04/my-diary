@@ -87,3 +87,6 @@
 - [06-21 sea.js / input clear button](https://github.com/kevinwang04/my-diary/blob/master/2016/06/2016-06-21.md) 
 
 - [06-22 little summary](https://github.com/kevinwang04/my-diary/blob/master/2016/06/2016-06-22.md) 
+
+
+- [06-23 get result training](https://github.com/kevinwang04/my-diary/blob/master/2016/06/2016-06-23.md) 
