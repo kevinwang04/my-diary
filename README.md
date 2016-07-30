@@ -90,3 +90,28 @@
 
 
 - [06-23 get result training](https://github.com/kevinwang04/my-diary/blob/master/2016/06/2016-06-23.md) 
+
+- [06-24 webstorm shortcut](https://github.com/kevinwang04/my-diary/blob/master/2016/06/2016-06-24.md) 
+
+- [06-29 react dom diff](https://github.com/kevinwang04/my-diary/blob/master/2016/06/2016-06-29.md) 
+
+- [07-01 koa and postgres](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-01.md) 
+
+- [07-05 H5 performance optimization](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-05.md) 
+
+- [07-09 H5 react with angular2](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-09.md) 
+
+- [07-12 ES6 summary](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-12.md) 
+
+- [07-14 nodejs fullstack](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-14.md) 
+
+- [07-17 Vue Combat](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-17.md) 
+
+- [07-21 js flow control](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-21.md) 
+
+- [07-24 chrome debug](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-24.md) 
+
+
+
+
+
