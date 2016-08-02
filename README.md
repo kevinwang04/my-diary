@@ -109,7 +109,9 @@
 
 - [07-21 js flow control](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-21.md) 
 
-- [07-24 chrome debug](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-24.md) 
+- [07-24 chrome debug](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-24.md)
+
+- [08-01 javascript tips](https://github.com/kevinwang04/my-diary/blob/master/2016/08/2016-08-01.md) 
 
 
 
