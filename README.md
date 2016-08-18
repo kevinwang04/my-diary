@@ -99,7 +99,7 @@
 
 - [07-05 H5 performance optimization](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-05.md) 
 
-- [07-09 H5 react with angular2](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-09.md) 
+- [07-09 react with angular2](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-09.md) 
 
 - [07-12 ES6 summary](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-12.md) 
 
@@ -112,6 +112,8 @@
 - [07-24 chrome debug](https://github.com/kevinwang04/my-diary/blob/master/2016/07/2016-07-24.md)
 
 - [08-01 javascript tips](https://github.com/kevinwang04/my-diary/blob/master/2016/08/2016-08-01.md) 
+
+- [08-04 js encoding specification](https://github.com/kevinwang04/my-diary/blob/master/2016/08/2016-08-04.md) 
 
 
 
